@@ -7,16 +7,27 @@
 
 html,
 body {
-	margin: 0;
+	margin: auto;
+}
+
+h1 {
+	display: block;
+	background: deepskyblue;
 }
 
 .container {
-	margin: 0 auto;
+	margin: auto;
 	width: 1170px;
 }
+.instructions {
+	margin: auto;
+	border: solid;
+	border-color: deepskyblue;
 
+}
 .clear {
 	clear: both;
+	background-color: deepskyblue;
 }
 
 /***
